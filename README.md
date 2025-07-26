@@ -1,10 +1,10 @@
 # 💸 FundFlow
 
-**FundFlow** is a C++-powered donation tracking system built for clarity, control, and accountability. It helps organize donors, record multi-type donations, allocate them to causes, rank top contributors, and generate clean receipts — all through a structured command-line interface.
+**FundFlow** is a C++ powered donation tracking system built for clarity, control, and accountability. It helps organize donors, record multi-type donations, allocate them to causes, rank top contributors, and generate clean receipts all through a structured command-line interface.
 
 ## 🔍 Overview
 
-FundFlow simplifies the process of tracking aid and donations. Designed with real-world needs in mind, it ensures that every contribution — whether it's money, goods, or time — is properly recorded, categorized, and reported.
+FundFlow simplifies the process of tracking aid and donations. Designed with real-world needs in mind, it ensures that every contribution whether it's money, goods, or time is properly recorded, categorized, and reported.
 
 ## ❗ Real-Life Problem
 
@@ -19,7 +19,7 @@ This results in inefficiency, poor accountability, and misallocation of funds.
 ## ✅ Solution
 
 **FundFlow** automates and organizes the entire donation pipeline:
-- Records donors and donations with proper categorization
+- Records donors and donations with proper categorisation
 - Tracks monetary and non-monetary contributions
 - Summarizes donation totals per cause
 - Ranks top donors for transparency and motivation
@@ -47,12 +47,12 @@ This results in inefficiency, poor accountability, and misallocation of funds.
 
 ## 📁 File Structure
 FundFlow
-├── donors.txt # Preloaded list of donors
-├── donations.txt # Preloaded donations (money, goods, services)
-├── causes.txt # Cause list and donation allocation
-├── receipts.txt # Automatically generated receipts
-├── main.cpp # Core C++ source file
-├── README.md # Project documentation
+- ├── donors.txt  (Preloaded list of donors)
+- ├── donations.txt  (Preloaded donations {money, goods, services})
+- ├── causes.txt  (Cause list and donation allocation)
+- ├── receipts.txt  (Automatically generated receipts)
+- ├── main.cpp  (Core C++ source file)
+- ├── README.md  (Project documentation)
 
 ## 🏛️ Real-World Applications
 
