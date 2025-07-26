@@ -1,0 +1,72 @@
+Receipt
+Donation ID: 201
+Type: Money
+Donor ID: 101
+Amount/Value: $50000.00
+Cause: Flood Relief
+Date: 10-01-2025
+-------------------------
+Receipt
+Donation ID: 202
+Type: Goods
+Donor ID: 103
+Amount/Value: $80000.00
+Cause: Ramadan Ration Drive
+Date: 07-01-2025
+-------------------------
+Receipt
+Donation ID: 203
+Type: Service
+Donor ID: 102
+Amount/Value: $12000.00
+Cause: Free Medical Camp
+Date: 05-01-2025
+-------------------------
+Receipt
+Donation ID: 204
+Type: Money
+Donor ID: 105
+Amount/Value: $120000.00
+Cause: Orphan Support
+Date: 10-03-2025
+-------------------------
+Receipt
+Donation ID: 205
+Type: Goods
+Donor ID: 106
+Amount/Value: $35000.00
+Cause: Winter Appeal
+Date: 11-03-2025
+-------------------------
+Receipt
+Donation ID: 206
+Type: Service
+Donor ID: 104
+Amount/Value: $15000.00
+Cause: Education Campaign
+Date: 12-01-2025
+-------------------------
+Receipt
+Donation ID: 207
+Type: Money
+Donor ID: 107
+Amount/Value: $250000.00
+Cause: Flood Relief
+Date: 13-12-2024
+-------------------------
+Receipt
+Donation ID: 208
+Type: Goods
+Donor ID: 109
+Amount/Value: $40000.00
+Cause: Eid Gifts
+Date: 14-11-2024
+-------------------------
+Receipt
+Donation ID: 209
+Type: Service
+Donor ID: 108
+Amount/Value: $12500.00
+Cause: Free Legal Aid
+Date: 15-09-2024
+-------------------------

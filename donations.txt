@@ -1,0 +1,9 @@
+Money,201,101,10-01-2025,Flood Relief,50000
+Goods,202,103,07-01-2025,Ramadan Ration Drive,Ration Packs,100,80000
+Service,203,102,05-01-2025,Free Medical Camp,Doctor Consultation,6,2000
+Money,204,105,10-03-2025,Orphan Support,120000
+Goods,205,106,11-03-2025,Winter Appeal,Woolen Blankets,50,35000
+Service,206,104,12-01-2025,Education Campaign,Tutoring,10,1500
+Money,207,107,13-12-2024,Flood Relief,250000
+Goods,208,109,14-11-2024,Eid Gifts,Toy Hampers,80,40000
+Service,209,108,15-09-2024,Free Legal Aid,Legal Counseling,5,2500

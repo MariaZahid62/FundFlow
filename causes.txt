@@ -1,0 +1,9 @@
+Flood Relief,300000
+Ramadan Ration Drive,80000
+Free Medical Camp,12000
+Orphan Support,120000
+Winter Appeal,35000
+Education Campaign,15000
+Eid Gifts,40000
+Free Legal Aid,12500
+Clean Water Project,0
